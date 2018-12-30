@@ -1,0 +1,6 @@
+- watch traversy html and css tutorial. Done, might have to watch again to do it
+- learn about html website bulding workflow
+- work out desired webiste layout ( rigt noa: a small blog/porfolio website)
+	idea: introduce about me, my blog ( gaming, movie and music), my contact and my porfolio if you want to hire me or sth
+	critea: good design layout, responsive
+- work for two days to make that to come true
